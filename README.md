@@ -1,10 +1,13 @@
 ### Hi there 👋
 
-[![Header](https://raw.githubusercontent.com/fizyk/<OWNER>/<OWNER>/readme_header.png "Header")](http://fizyk.net.pl/)
-
 [![Fizyk's GitHub stats](https://github-readme-stats.vercel.app/api?username=fizyk&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fizyk&show_icons=true&count_private=true&hide=php)](https://github.com/anuraghazra/github-readme-stats)
+
+[![mirakuru](https://github-readme-stats.vercel.app/api/pin/?username=ClearcodeHQ&repo=mirakuru)](https://github.com/anuraghazra/github-readme-stats)
+[![pytest-postgresql](https://github-readme-stats.vercel.app/api/pin/?username=ClearcodeHQ&repo=pytest-postgresql)](https://github.com/anuraghazra/github-readme-stats)
+[![pytest-redis](https://github-readme-stats.vercel.app/api/pin/?username=ClearcodeHQ&repo=pytest-redis)](https://github.com/anuraghazra/github-readme-stats)
+[![pytest-elasticsearch](https://github-readme-stats.vercel.app/api/pin/?username=ClearcodeHQ&repo=pytest-elasticsearch)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **fizyk/fizyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
