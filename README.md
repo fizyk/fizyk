@@ -2,7 +2,7 @@
 
 [![Fizyk's GitHub stats](https://github-readme-stats.vercel.app/api?username=fizyk&show_icons=true&count_private=true)](https://github.com/fizyk)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fizyk&show_icons=true&count_private=true&hide=php)](https://github.com/fizyk)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fizyk&show_icons=true&count_private=true&hide=php&langs_count=8)](https://github.com/fizyk)
 
 [![mirakuru](https://github-readme-stats.vercel.app/api/pin/?username=ClearcodeHQ&repo=mirakuru)](https://github.com/ClearcodeHQ/mirakuru)
 [![pytest-postgresql](https://github-readme-stats.vercel.app/api/pin/?username=ClearcodeHQ&repo=pytest-postgresql)](https://github.com/ClearcodeHQ/pytest-postgresql)
